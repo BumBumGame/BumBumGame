@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h3>Statistiken:</h3>
+  <br>
+  <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=xamtodd&hide=stars,issues&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
+ </div>
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=xamtodd">
